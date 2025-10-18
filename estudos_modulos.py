@@ -37,7 +37,7 @@ print('o resto da divisão é',result9)
 result10 = math.modf(5.75)#parte fracionária e parte inteira
 print('a parte decimal e parte inteira é')
 
-result11 = math.remainder(10,3)
+result11 = math.remainder(10,3)""
 print('o resultado dessa operação é',result11)
 
 result12 = math.trunc (4.99)
